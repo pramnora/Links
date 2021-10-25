@@ -3,9 +3,9 @@
 ## Microsoft
 
 - https://developer.microsoft.com
-- https://www.vscode.com
-
-## MOOC/Massive Online Open Courses
+- https://microsoft.com/vscode
+ 
+##  MOOC/Massive Online Open Courses
 
 - https://www.alison.com
 - https://www.codecademy.com
