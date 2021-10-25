@@ -3,6 +3,7 @@
 ## Microsoft
 
 - https://www.microsoft.com
+- https://www.microsoft.com/en-gb/microsoft-365
 - https://developer.microsoft.com
 - https://code.visualstudio.com
  
