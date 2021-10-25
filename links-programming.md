@@ -2,6 +2,7 @@
 
 ## Microsoft
 
+- https://www.microsoft.com
 - https://developer.microsoft.com
 - https://code.visualstudio.com
  
