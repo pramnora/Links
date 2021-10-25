@@ -3,6 +3,7 @@
 ## Microsoft
 
 - https://developer.microsoft.com
+- https://www.vscode.com
 
 ## MOOC/Massive Online Open Courses
 
